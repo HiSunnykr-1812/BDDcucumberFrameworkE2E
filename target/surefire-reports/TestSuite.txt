@@ -1,0 +1,13 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 3, Errors: 0, Skipped: 0, Time elapsed: 2.402 s <<< FAILURE! - in TestSuite
+TestRunner.TestrunnerNG.runScenario["Search Experience for product in both homepage and offers page", "Search and place the order for product"](3)  Time elapsed: 0.475 s  <<< FAILURE!
+java.lang.NullPointerException
+
+TestRunner.TestrunnerNG.runScenario["Search Experience for product in both homepage and offers page", "Search and place the order for product"](3)  Time elapsed: 0.477 s  <<< FAILURE!
+java.lang.NullPointerException
+
+TestRunner.TestrunnerNG.runScenario["Search Experience for product in both homepage and offers page", "Search and place the order for product"](3)  Time elapsed: 0.477 s  <<< FAILURE!
+java.lang.NullPointerException
+
